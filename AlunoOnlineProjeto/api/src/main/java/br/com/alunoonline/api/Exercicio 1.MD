@@ -65,6 +65,8 @@ O **repository** é a camada de persistência que interage com o banco de dados.
 }
 ```
 
+![Captura de Tela (35)](https://github.com/user-attachments/assets/a2f459a1-6274-4455-ab0c-a75717ce57c1)
+
 ### Passo 2: Enviar a requisição
 
 Após enviar a requisição, a API deverá retornar o status **201 Created** se o aluno for criado com sucesso. O aluno será armazenado no banco de dados.
