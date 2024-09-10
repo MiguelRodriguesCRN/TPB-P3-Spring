@@ -73,5 +73,5 @@ Após enviar a requisição, a API deverá retornar o status **201 Created** se 
 
 O banco de dados está sendo criado em **PostgreSQL** na porta **5432**. Utilizamos **DBeaver** para administrar e gerenciar o banco de dados.
 
-- **URL do Banco de Dados**: `jdbc:postgresql://localhost:5432/nome_do_banco`
+- **URL do Banco de Dados**: `jdbc:postgresql://localhost:5432/aluno_online_projeto`
 
