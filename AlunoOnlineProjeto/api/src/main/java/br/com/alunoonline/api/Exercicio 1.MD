@@ -77,3 +77,4 @@ O banco de dados está sendo criado em **PostgreSQL** na porta **5432**. Utiliza
 
 - **URL do Banco de Dados**: `jdbc:postgresql://localhost:5432/aluno_online_projeto`
 
+![Captura de Tela (36)](https://github.com/user-attachments/assets/8f6c6fd4-9d42-4d3a-9c99-bd5cf9445edd)
