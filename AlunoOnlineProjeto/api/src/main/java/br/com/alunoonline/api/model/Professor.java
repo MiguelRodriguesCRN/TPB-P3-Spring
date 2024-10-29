@@ -8,16 +8,11 @@ import lombok.*;
 
 import java.io.Serializable;
 
-
-
-
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
 @Entity
-@Getter
-@Setter
-public class Professor {
+public class Professor implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
